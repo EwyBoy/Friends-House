@@ -13,6 +13,11 @@ This plugin is for players who frequently visit their friends' houses and want t
 5. If the friend's name is saved, you can click it to autofill the name in the house portal interface.
 6. Enjoy!
 
+## Images
+![image](https://github.com/user-attachments/assets/1a566bfe-1130-4153-b12f-a51409e9f0bf)
+![image](https://github.com/user-attachments/assets/c98292a6-cb47-46d4-ad54-f6e49ef507a9)
+
+
 ## Features
 - Save a friend's name to easily access their house
 - Autofill the name in the house portal interface
