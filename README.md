@@ -3,7 +3,8 @@
 A simple and lightweight RuneLite plugin that lets you save a friend's name, so you can easily access their house without needing to remember the exact spelling and re-enter it every session.
 
 ## Who is this for?
-This plugin is for players who frequently visit their friends' houses and want to save time by not having to remember the exact spelling of their friends' names.
+The plugin is for players who frequently borrows that one friend's house, can't spell usernames correct or have an alt using your mains POH all the time. 
+It helps you autofill in the name in the user-interface.
 
 ## How to use
 1. Open the plugin's configuration panel
