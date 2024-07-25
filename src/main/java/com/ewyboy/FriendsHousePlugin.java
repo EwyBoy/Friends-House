@@ -47,7 +47,7 @@ public class FriendsHousePlugin extends Plugin {
             return;
         }
 
-        if (event.getIndex() != VarClientInt.INPUT_TYPE) {
+        if (event.getIndex() != VarClientInt.INPUT_TYPE || client.getVarcIntValue(VarClientInt.INPUT_TYPE) != 8){
             return;
         }
 
@@ -82,6 +82,7 @@ public class FriendsHousePlugin extends Plugin {
 
             var friendsHouse = new FriendsHouse(chatboxContainer, client, lastNameFound);
             friendsHouse.setInputText(config.name());
+            chatboxContainer.revalidate();
         });
     }
 
