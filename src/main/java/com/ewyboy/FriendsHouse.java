@@ -1,11 +1,9 @@
 package com.ewyboy;
 
-import net.runelite.api.*;
-import net.runelite.api.widgets.*;
-
 import net.runelite.api.Client;
-import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetType;
+import net.runelite.api.FontID;
+import net.runelite.api.VarClientStr;
+import net.runelite.api.widgets.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
